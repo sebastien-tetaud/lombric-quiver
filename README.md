@@ -20,23 +20,23 @@ This project focuses on:
   - Animated flow visualization with dynamic transparency
 - **Animation Generation**: Creates MP4 animations of wind patterns and temperature data
 
-## Dependencies
-
-- xarray
-- matplotlib
-- cartopy
-- numpy
-- tqdm
-- loguru
-
 ## Getting Started
 
 1. Clone this repository:
 ```bash
 git clone git@github.com:sebastien-tetaud/lombric-quiver.git
 ```
+2. Create python env
 
-2. Install required packages:
+```bash
+conda create --name anim python==3.13
+conda activate anim
+```
+3. Install xarray
+```bash
+python -m pip install "xarray[complete]"
+```
+4. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
