@@ -52,10 +52,9 @@ The notebook uses data from the DestinE Earth Data Hub, specifically:
 
 ## Example Output
 
-The final output is an MP4 animation showing temperature as a color-coded map with animated wind streamlines flowing across Europe. The animation demonstrates how wind patterns interact with temperature distributions.
+The final output is an MP4 animation showing temperature as a color-coded map with animated wind streamlines flowing across Europe.
 
 
-![](assets/era5_europe_t2m_wind.mp4)
 <video src="assets/era5_europe_t2m_wind.mp4" controls preload></video>
 
 ## Customization
