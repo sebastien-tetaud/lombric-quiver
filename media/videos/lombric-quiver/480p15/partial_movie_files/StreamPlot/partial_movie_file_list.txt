@@ -1,7 +1,3 @@
 # This file is used internally by FFMPEG.
 file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/1185818338_3864878460_223132457.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/624642324_1432596116_3560401909.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/624642324_3869586480_866456743.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/624642324_1432596116_3307179918.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/4085166037_1547630461_3839553933.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/4085166037_1157981842_1776457674.mp4'
+file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/StreamPlot/624642324_1623705852_3879857186.mp4'
