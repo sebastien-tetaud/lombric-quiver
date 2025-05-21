@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/ERA5VectorField_mod/931832650_4141849542_3064045911.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/ERA5VectorField_mod/1905288516_2232822524_1622575305.mp4'

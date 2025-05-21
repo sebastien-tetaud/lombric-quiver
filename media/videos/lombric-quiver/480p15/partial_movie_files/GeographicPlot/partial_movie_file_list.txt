@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/GeographicPlot/1185818338_3864878460_223132457.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/GeographicPlot/624642324_2872842549_3560401909.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/GeographicPlot/624642324_3228503456_866456743.mp4'
-file 'file:D:/Desktop/DestinE-ESA/lombric-quiver/media/videos/lombric-quiver/480p15/partial_movie_files/GeographicPlot/624642324_4277570474_327085791.mp4'
